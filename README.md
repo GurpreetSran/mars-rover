@@ -1,9 +1,9 @@
 # mars-rover
 
-# git clone 
-# yarn
-# yarn dev 
-# yarn test
+## git clone 
+## yarn
+## yarn dev 
+## yarn test
 
 
 ### Todo 
