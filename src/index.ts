@@ -37,3 +37,5 @@ export const execute = (input: string): string => {
 
   return result;
 };
+
+console.log(execute('5 5\n1 2 N\nLMLMLMLMM\n3 3 E\nMMRMMRMRRM'));
