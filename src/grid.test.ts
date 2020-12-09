@@ -1,4 +1,3 @@
-import { Grid } from './Grid';
 import { Grid as SquareGrid } from './Grid';
 
 const grid = new SquareGrid(5, 5);

@@ -4,6 +4,7 @@ export interface IRover {
     y: number;
   };
   orientation: Orientation;
+  move?: (Instructions: Instructions) => void;
 }
 
 export interface IGrid {
